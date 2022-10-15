@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am currently working on ReactJS, Material Ui
-
+- :telescope: I’m working as a Senior Software Engineer and contributing to frontend for building web applications.
+- :seedling: Exploring Design Patterns and Web architectures.
+- :zap: In my free time, I solve problems on Data Structures and read tech articles.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-gupta-222596b9/) 
