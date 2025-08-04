@@ -129,7 +129,7 @@
           A modern, responsive contact management application built with React and Tailwind CSS. Features include dynamic field management, real-time search, and mobile-first design.
         </p>
         <p align="center">
-          <a href="https://github.com/Adarsh0007/ghl-assignment" target="_blank">
+          <a href="https://github.com/Adarsh0007/ghl-assignement" target="_blank">
             <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
           </a>
         </p>
